@@ -43,7 +43,7 @@ Overall, Mahmoud's portfolio is a testament to his technical expertise, creativi
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
+<table style="width=100%">
   <tr>
     <td align="center" width="96">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="icon" width="65" height="65" />
