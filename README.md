@@ -1,4 +1,4 @@
-[![typograssy](https://typograssy.deno.dev/api?text=Welcome)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=Welcome&comment=)](https://github.com/kawarimidoll/typograssy)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=30&duration=2000&pause=1000&color=3731CD&width=600&lines=Hello;I+am+Mahmoud+Ashraf+;I+am+%F0%9F%A6%8B%E2%81%82%E0%BC%84%F0%9D%90%85%F0%9D%94%B2%C9%A9%CA%86%F0%9D%98%80%F0%9D%98%81%E1%B5%85c%D3%84%E0%BC%84%E2%81%82%F0%9F%A6%8BEngineer)](https://git.io/typing-svg)
